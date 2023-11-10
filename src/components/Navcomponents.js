@@ -35,23 +35,23 @@ export function About(){
                 <div class="row justify-content-center align-item-center">
                     <div class="col-md-5 text-center text-md-start border border-secondary" style={{backgroundColor: "rgb(214, 213, 213)"}}>
                         <h1>
-                            <div class="display-4">Adith Sagar Gowda</div>
-                            <div class="lead text-muted"><i class="bi bi-file-earmark-person"></i> A Learner | ML Enthusiast</div>
+                            <div class="display-4">Vibhor Mathur</div>
+                            <div class="lead text-muted"><i class="bi bi-file-earmark-person"></i> An Enthusiastic Learner </div>
                         </h1>
                         <hr />
                         <div class="contact">
-                            <p class="lead pt-0">Im currently learning Machine Learning and MERN-Stack</p>
-                            <span class="lead"><i class="bi bi-envelope-at-fill"></i> How to reach me : 
-                                <a href="mailto:adithgowda06@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
+                            <p class="lead pt-0">Im currently learning and MERN Stack</p>
+                            <span class="lead"><i class="bi bi-envelope-at-fill"></i> Connect with me : 
+                                <a href="mailto : matvibhor24@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
                             </span>
                             <br /><br />
-                            <span class="lead"><i class="bi bi-geo-fill"></i> Bengaluru, Karnataka</span>
+                            <span class="lead"><i class="bi bi-geo-fill"></i> Bhopal, Madhya Pradesh</span>
                             <br /><br />
                             <span class="lead fw-900"><i class="bi bi-at"></i> Connect with me : </span>
                             <p class="btn-group">
-                                <a href="https://www.linkedin.com/in/adith-sagar-gowda-b83148228/" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
-                                <a href="https://github.com/Adith-gowda" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
-                                <a href="https://leetcode.com/adipycoder/" target="_blank" class="btn btn-sm btn-danger fw-bold">LeetCode</a>
+                                <a href="https://www.linkedin.com/in/vibhor-mathur-5006141b0/" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
+                                <a href="https://github.com/Matvibhor24" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
+                                <a href="https://leetcode.com/matvibhor24/" target="_blank" class="btn btn-sm btn-danger fw-bold">LeetCode</a>
                             </p>
 
                             <div class="d-block mt-3 btn btn-secondary">
@@ -60,7 +60,7 @@ export function About(){
                         </div>
                     </div>
                     <div class="col-md-5 text-center d-none d-md-block">
-                        <span class="tt" data-bs-placement="bottom" title="ADITH SAGAR GOWDA">
+                        <span class="tt" data-bs-placement="bottom" title="VIBHOR MATHUR">
                             <img src={me} alt="Image" class="img-fluid border border-secondary align-items-center" />
                         </span>
                     </div>
@@ -85,7 +85,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">All of my works in this domain</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">MERN stack is a collection of technologies that enables faster application development.The main purpose of using MERN stack is to develop apps using JavaScript only.</p>
-                                <a href="https://github.com/Adith-gowda?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="#" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">Problems solved in LeetCode</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">LeetCode is an online platform offering coding challenges and interview preparation resources for software engineers and developers. The service provides coding and algorithmic problems intended for users to practice coding.</p>
-                                <a href="https://github.com/Adith-gowda/LeetCodeSolutions" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="3" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ export function Info(){
                             <div class="card-body text-center py-4">
                                 <h5 class="card-title">All of my works in this domain</h5>
                                 <p class="card-text mx-3 my-1 text-muted d-none d-lg-block">Machine learning is an important component of the growing field of data science. Machine learning algorithms are typically created using frameworks that accelerate solution development.</p>
-                                <a href="https://github.com/Adith-gowda?tab=repositories" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
+                                <a href="#" class="btn btn-outline-danger btn-md mt-3" target="_blank">View</a>
                             </div>
                         </div>
                     </div>
@@ -120,8 +120,8 @@ export function Upload(){
         <section id="upload" className='mt-5' style={{backgroundColor: "rgb(240, 238, 238)", height:"650px"}}>
             <div class="container-lg">
                 <div class="text-center">
-                    <h2><i class="bi bi-stars"></i>LeetCode Solution</h2>
-                    <p class="lead text-muted">Solutions which i have uploaded in leetcode</p>
+                    <h2><i class="bi bi-stars"></i>LeetCode Open Source contributions</h2>
+                    <p class="lead text-muted">My contributions to Leetcode Feedback open source repo</p>
                 </div>
 
                 <div class="row justify-content-center">
@@ -129,37 +129,19 @@ export function Upload(){
                         <div class="list-group">
                             <div class="list-group-item py-3">
                                 <div class="d-flex justify-content-between">
-                                    <h5 class="mb-1">1207. Unique Number of Occurences
+                                    <h5 class="mb-1">1410. HTML Entity Parser
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                         <i class="bi bi-star-fill"></i>
                                     </h5>
-                                    <small>Aug 27, 2023</small>
+                                    <small>Sept 7, 2023</small>
                                 </div>
-                                <p class="mb-1">The intuition behind this solution lies in identifying unique occurrences of elements in the given array. We aim to determine whether each element in the array appears a distinct number of times or not.</p>
+                                <p class="mb-1">Contributing a test case - The problem acceptED solutions even if valid HTML entities in between are not replaced and returned in output as it is.</p>
                                 <div class="d-flex justify-content-between">
-                                    <small>Difficulty : Easy</small>
-                                    <a href="https://leetcode.com/problems/unique-number-of-occurrences/solutions/3968523/simple-and-intuitive-c-solution-unordered-map-and-set-beats-100/" target="_blank" class="btn btn-outline-success active">View the Code</a>
-                                </div>
-                            </div>
-
-                            <div class="list-group-item py-3">
-                                <div class="d-flex justify-content-between">
-                                    <h5 class="mb-1">205. Isomorphic Strings
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                        <i class="bi bi-star-fill"></i>
-                                    </h5>
-                                    <small>Sep 07, 2023</small>
-                                </div>
-                                <p class="mb-1">To solve this problem, we maintain a mapping from characters in s to characters in t and ensure that this mapping is consistent. We also use a set to keep track of characters in t to guarantee uniqueness. If we encounter any inconsistencies during the mapping, we return false.</p>
-                                <div class="d-flex justify-content-between">
-                                    <small>Difficulty : Easy</small>
-                                    <a href="https://leetcode.com/problems/isomorphic-strings/solutions/4014980/simple-and-intuitive-cpp-solution-beats-91-57-using-unordered-map-and-set/" target="_blank" class="btn btn-outline-success active">View the Code</a>
+                                    <small>Difficulty : Medium</small>
+                                    <a href="https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/16249" target="_blank" class="btn btn-outline-success active">View</a>
                                 </div>
                             </div>
                         </div>
@@ -201,7 +183,7 @@ export function Contact(){
                                 <span class="input-group-text">
                                     <i class="bi bi-person-fill"></i>
                                 </span>
-                                <input type="text" class="form-control" id="name" placeholder="e.g. Adith Sagar Gowda" required/>
+                                <input type="text" class="form-control" id="name" placeholder="e.g. Vibhor Mathur" required/>
 
                                 <span class="input-group-text">
                                     <span class="tt" data-bs-placement="bottom" title="Pretty self explanatory really...">
@@ -260,32 +242,16 @@ export function Project(){
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="heading-1">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#project-1" aria-expanded="true" aria-controls="project-1">
-                                        Fertilizer Forecast
+                                        Augmented Reality [AR] App - Android development
                                     </button>
                                 </h2>
                                 <div id="project-1" class="accordion-collapse collpase show" aria-labelledby="heading-1" data-bs-parent="#projects_list">
                                     <div class="accordion-body">
                                         <p>
-                                            This is a Fertilizer Forecasting tool or an app, which predicts an optimal fertilizer from the collected soil and other depending factors. The tool is developed machine learning algorithms, streamlit-webapp. and streamlit-cloud
+                                            This is an Android application with implementation of Augmented Reality. It's just a small projects that incorporates small elements relayed over your real view.
                                         </p>
-                                        <a href="https://adith-gowda-fertilizer-forecast-app-ky4huw.streamlit.app/" class="btn btn-outline-danger me-2" >App</a>
-                                        <a href="https://github.com/Adith-gowda/Fertilizer_Forecast" target="_blank" class="btn btn-outline-danger" >Code</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="accordion-item">
-                                <h2 class="accordion-header" id="heading-2">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#project-2" aria-expanded="false" aria-controls="project-2">
-                                        Spam SMS Detector
-                                    </button>
-                                </h2>
-                                <div id="project-2" class="accordion-collapse collpase" aria-labelledby="heading-2" data-bs-parent="#projects_list">
-                                    <div class="accordion-body">
-                                        <p>
-                                            This is a Spam SMS Detector tool or an app, which predicts whether the given SMS is a spam or not. The tool is developed using machine learning algorithms, flask.
-                                        </p>
-                                        <a href="https://github.com/Adith-gowda/spam-sms-dectection" target="_blank" class="btn btn-outline-danger" >Code</a>
+                                        
+                                        <a href="https://github.com/Matvibhor24/AR-Application" target="_blank" class="btn btn-outline-danger" >Code</a>
                                     </div>
                                 </div>
                             </div>
